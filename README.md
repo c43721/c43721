@@ -1,4 +1,5 @@
 # 👋 Hi there 
+## ⚡ Visit my [profile website](https://c43721.github.io/)!
 
 <!--
 **c43721/c43721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +17,6 @@ Here are some ideas to get you started:
 -->
 
 I'm a 19 year old fullstack developer from the Milwaukee area. I love learning frameworks and languages!
-
-⚡ Visit my [profile website](https://c43721.github.io/)!
 
 # ⛏️ Languages I've used
 - TypeScript
