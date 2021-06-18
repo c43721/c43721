@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a young but passionate Fullstack Developer from the Milwaukee area, with focuses on Node.js and TypeScript. I love learning frameworks and languages!
+I like learning. I try to create cool things that do pretty cool stuff.
 
 # ⛏️ Languages I've used
-- TypeScript
-- JavaScript
+- JavaScript/TypeScript
 - Java
 - Rust
+- C#
 - Python
