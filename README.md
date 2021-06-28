@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 I like learning. I try to create cool things that do pretty cool stuff.
+Taught fullstack, work as a backend.
 
 # ⛏️ Languages I've used
 - JavaScript/TypeScript
@@ -24,3 +25,7 @@ I like learning. I try to create cool things that do pretty cool stuff.
 - Rust
 - C#
 - Python
+
+# 🔭 Checkout my Projects
+- [rcon.tf](https://github.com/rcontf)
+- [payload.tf](https://github.com/payload-bot)
