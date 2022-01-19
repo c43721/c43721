@@ -1,5 +1,5 @@
 # 👋 Hi there 
-⚡ Visit my [profile website](https://c43721.github.io/)!
+⚡ Visit my [profile website](https://c43721.dev/)!
 
 <!--
 **c43721/c43721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,9 @@ Taught fullstack, work as a backend.
 
 # ⛏️ Languages I've used
 - JavaScript/TypeScript
-- Java
-- Rust
 - C#
+- Rust
+- Java
 - Python
 
 # 🔭 Checkout my Projects
