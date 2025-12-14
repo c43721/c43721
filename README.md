@@ -1,30 +1,13 @@
 # 👋 Hi there 
 ⚡ Visit my [profile website](https://c43721.dev/)!
 
-<!--
-**c43721/c43721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code is pretty neat.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I like learning. I try to create cool things that do pretty cool stuff.
-Taught fullstack, work as a backend.
-
-# ⛏️ Languages I've used
-- JavaScript/TypeScript
+# ⛏️ I Build In:
+- TypeScript
 - C#
 - Rust
-- Java
-- Python
+- Zig
 
 # 🔭 Checkout my Projects
 - [rcon.tf](https://github.com/rcontf)
