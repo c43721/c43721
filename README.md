@@ -12,7 +12,7 @@ Writing code is pretty neat. I enjoy learning about systems, architecture, and l
 
 # 🔭 Checkout my Projects
 - [rcon.tf](https://github.com/rcontf)
-- [payload.tf](https://github.com/payload-bot)\
+- [payload.tf](https://github.com/payload-bot)
 
 # Code Playgrounds
 - [go](https://github.com/c43721/go-playground)
